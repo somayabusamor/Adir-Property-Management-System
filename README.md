@@ -13,7 +13,8 @@ Advanced Logic: Implemented Validation Rules and Roll-up Summaries to ensure dat
 Security & UX: Designed custom Lightning Record Pages and implemented Permission Sets to maintain a "Security-First" approach.
 
 🛠️ Tech Stack
-Platform: Salesforce Service Cloud
+Platform: 
+Salesforce Service Cloud
 
 Logic: Apex (Triggers & Classes), Flow Builder
 
